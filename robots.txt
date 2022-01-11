@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://adityagundecha.com/sitemap_index.xml
+Sitemap: https://lekhikagoswami.com/sitemap_index.xml
